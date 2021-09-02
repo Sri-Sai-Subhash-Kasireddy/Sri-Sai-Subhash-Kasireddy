@@ -1,7 +1,7 @@
 👋 Hi,
 
 I'm really passionate about machine learning and artificial intelligence. Machine learning and artificial intelligence has been revolutionizing the way in which we live our lives. There are many machine learning algorithms that are being developed and there is a lot of scope and demand for it. I wanted to share my projects to the community so that they could get access to all the resources and tools needed in the field of data science. 
-
+![](https://github.com/Sri-Sai-Subhash-Kasireddy/Images/blob/main/ian-schneider-TamMbr4okv4-unsplash.jpg)
 I am a Masters student currently pursuing Data Analytics Engineering at Northeastern University, Boston. I have opted Data Computation and Visualisation, Data Mining, Machine Learning, Data Management courses till now and have gained good knowledge on the subject and have implemented a few projects thorugh which I could showcase my skills. Below are the links of my projects on Data Science.
 
 ## My Motivation: 
