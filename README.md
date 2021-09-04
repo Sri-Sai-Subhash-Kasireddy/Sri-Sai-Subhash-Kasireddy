@@ -10,7 +10,7 @@ Presently I need to do my exploration in Data Science, which I need to seek afte
 ![](https://github.com/Sri-Sai-Subhash-Kasireddy/Images/blob/main/samuel-scrimshaw-rJc1RioyERQ-unsplash.jpg)
 
 ## Projects:
-✨ In this section, a different set of projects are highlighted. Feel free to click on the links for the projects. I have briefly described about the projects below. 
+✨ In this section, a different set of projects are highlighted. Feel free to click on the links for the projects. I have briefly described about the projects below. In the projects below, I've used various machine learning techniques such as convolution neural networks, k-nearest neighbors and other techniques that gave me a good understanding 
 
 
 <!---
